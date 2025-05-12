@@ -13,5 +13,3 @@ console.log(typeof [1,2,3]); // object
 console.log(typeof {a: 1 }); // object
 console.log(typeof function(){}); // function
 console.log(typeof NaN); // number
-
-
